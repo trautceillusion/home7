@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+
+body {
+   font-family: "Lato", sans-serif;
+}
+
+.wrapper {
+   max-width: 810px;
+   padding-top: 190px;
+   margin: 0 auto;
+}
+header {
+   margin-bottom: 40px;
+}
+.info h1 {
+   font-weight: 900;
+   font-size: 46px;
+   line-height: 130%;
+   color: #1e212c;
+   margin-bottom: 26px;
+}
+.info ul li {
+   display: inline-block;
+   font-size: 16px;
+   line-height: 160%;
+   color: #787a80;
+}
+.first {
+   background: url("img/fig1.png") 0 no-repeat;
+   padding-left: 25px;
+}
+.second {
+   background: url("img/fig2.png") 0 no-repeat;
+   margin-left: 25px;
+   padding-left: 25px;
+}
+
+/* ====block1===== */
+.block1 {
+   margin-bottom: 25px;
+}
+.block1 img {
+   margin-bottom: 60px;
+}
+.block1 p {
+   font-weight: bold;
+   font-size: 20px;
+   line-height: 150%;
+   color: #1e212c;
+}
+/* ===block2==== */
+.block2 {
+   margin-bottom: 50px;
+}
+.block2 p {
+   font-size: 16px;
+   line-height: 160%;
+   color: #424551;
+   margin-bottom: 25px;
+}
+.block2-text {
+   font-size: 16px;
+   line-height: 160%;
+   color: #424551;
+}
+/* ===block3=== */
+.block3 {
+   margin-bottom: 50px;
+}
+.block3 p {
+   font-weight: bold;
+   font-size: 20px;
+   line-height: 150%;
+   color: #1e212c;
+   background: url("img/fig4.png") 0 0 no-repeat;
+   padding-left: 50px;
+}
+/* ===block4=== */
+.block4 {
+   margin-bottom: 25px;
+}
+.block4 p {
+   font-size: 16px;
+   line-height: 160%;
+   color: #424551;
+   margin-bottom: 25px;
+}
+.block4 ul li {
+   font-size: 16px;
+   line-height: 160%;
+   color: #424551;
+   background: url("img/fig5.png") 0 5px no-repeat;
+   padding-left: 32px;
+}
+/* ===block5=== */
+.block5 {
+   margin-bottom: 100px;
+}
+.block5 p {
+   font-size: 16px;
+   line-height: 160%;
+   color: #424551;
+}
+/* ===block6=== */
+.block6 {
+   max-width: 390px;
+}
+.block6 h2 {
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 150%;
+   letter-spacing: 1px;
+   text-transform: uppercase;
+   color: #1e212c;
+   margin-bottom: 10px;
+}
+.block6 h1 {
+   font-weight: 900;
+   font-size: 46px;
+   line-height: 130%;
+   color: #1e212c;
+   margin-bottom: 40px;
+}
+.block6-list {
+   font-size: 16px;
+   line-height: 160%;
+   color: #424551;
+   background: url("img/fig5.png") 0 5px no-repeat;
+   padding-left: 32px;
+   padding-bottom: 10px;
+}
+.block6 ul {
+   margin-bottom: 50px;
+}
+.block6-button a {
+   background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+   border-radius: 4px;
+   padding: 10px 32px;
+   color: white;
+}
